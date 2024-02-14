@@ -8,7 +8,7 @@ I enjoy building web apps across the tech stack with TypeScript/JavaScript, Reac
 - 🌱 I’m currently learning ... React Query and Next.js
 - 👯 I’m looking to collaborate on ... recommendation systems
 - 🤔 I’m looking for help with ... recommendation systems
-- 📫 How to reach me: ...LinkedIn
+- 📫 How to reach me: ...LinkedIn(https://www.linkedin.com/in/philiplbrown/)
 - ⚡ Fun fact: ...I'm training for my third half Ironman in Santa Cruz
 
 <h3> 🛠 Tech Stack</h3>
@@ -25,8 +25,11 @@ I enjoy building web apps across the tech stack with TypeScript/JavaScript, Reac
 - 🛢 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
