@@ -8,7 +8,7 @@ I enjoy building web apps across the tech stack with TypeScript/JavaScript, Reac
 - 🌱 I’m currently learning ... React Query and Next.js
 - 👯 I’m looking to collaborate on ... recommendation systems
 - 🤔 I’m looking for help with ... recommendation systems
-- 📫 How to reach me: ...LinkedIn(https://www.linkedin.com/in/philiplbrown/)
+- 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/philiplbrown/)
 - ⚡ Fun fact: ...I'm training for my third half Ironman in Santa Cruz
 
 <h3> 🛠 Tech Stack</h3>
