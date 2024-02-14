@@ -2,7 +2,7 @@
 
 Hey there! I’m Philip, a curious, passionate and empathetic full-stack software engineer with over 6 years of experience working in tech at Meta, Cisco and Apple, where I developed several products from concept to shipment.
 
-I enjoy building web apps across the tech stack with TypeScript/JavaScript, React, Redux, Node, Express, HTML, CSS, MongoDB and PostgreSQL. I am always interested in growing as an engineer by learning new skills and taking on new challenges based on engineering fundamentals.
+I enjoy building web apps across the tech stack with TypeScript/JavaScript, React, Redux, Node, Express, HTML, CSS, Redis, MongoDB and PostgreSQL. I am always interested in growing as an engineer by learning new skills and taking on new challenges based on engineering fundamentals.
 
 - 🔭 I’m currently working on ... connecting artists and fans, and finding good food
 - 🌱 I’m currently learning ... React Query and Next.js
