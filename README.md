@@ -4,6 +4,8 @@ Hey there! I’m Philip, a curious, passionate and empathetic full-stack softwar
 
 I enjoy building web apps across the tech stack with TypeScript/JavaScript, React, Redux, Node, Express, HTML, CSS, Redis, MongoDB and PostgreSQL. I am always interested in growing as an engineer by learning new skills and taking on new challenges based on scientific and engineering fundamentals.
 
+<h3> ✍️ Updates</h3>
+
 - 🔭 I’m currently working on ... connecting artists and fans, and finding good food
 - 🌱 I’m currently learning ... React Query and Next.js
 - 👯 I’m looking to collaborate on ... recommendation systems
