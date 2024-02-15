@@ -1,6 +1,6 @@
-<h2> this.Philip (he/him)</h2>
+<h2> this.Phil (he/him)</h2>
 
-Hey there! I’m Philip, a curious, passionate and empathetic full-stack software engineer with over 6 years of experience working in tech at Meta, Cisco and Apple, where I developed several products from concept to shipment.
+Hey there! I’m Phil, a curious, passionate and empathetic full-stack software engineer with over 6 years of experience working in tech at Meta, Cisco and Apple, where I developed several products from concept to shipment.
 
 I enjoy building web apps across the tech stack with TypeScript/JavaScript, React, Redux, Node, Express, HTML, CSS, Redis, MongoDB and PostgreSQL. I am always interested in growing as an engineer by learning new skills and taking on new challenges based on scientific and engineering fundamentals.
 
