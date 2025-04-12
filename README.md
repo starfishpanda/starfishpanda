@@ -7,10 +7,8 @@ I enjoy building web apps across the tech stack with TypeScript/JavaScript, Reac
 <h3> ✍️ Updates</h3>
 
 - 🔭 I’m currently working on ... connecting artists and fans, and finding good food
-- 🌱 I’m currently learning ... React Query and Next.js
-- 👯 I’m looking to collaborate on ... recommendation systems
+- 🌱 I’m currently learning ... Go and recommendation systems
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/philiplbrown/)
-- ⚡ Fun fact: ... I'm training for my third half Ironman in Santa Cruz, California this September
 
 <h3> 🛠 Tech Stack</h3>
 
